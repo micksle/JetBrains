@@ -16,7 +16,7 @@ public class Cinema {
         int second = seats - first;
         int income;
         if (seats < 60) {
-            income = seats*10;
+            income = seats * 10;
         } else {
             income = (first * 10) + (second * 8);
         }
