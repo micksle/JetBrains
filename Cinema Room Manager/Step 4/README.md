@@ -31,7 +31,7 @@ Cinema:
 | 3 | S | S | S | S | S | S | S | S |
 | 4 | S | S | S | S | S | S | S | S |
 | 5 | S | S | S | S | S | S | S | S |
-| 6 | S | S | S | S | B | S | S | S |
+| 6 | S | S | S | S | S | S | S | S |
 | 7 | S | S | S | S | S | S | S | S |
 ```
 1. Show the seats
@@ -59,7 +59,7 @@ Cinema:
 | 3 | S | S | S | S | S | S | S | S |
 | 4 | S | S | S | S | B | S | S | S |
 | 5 | S | S | S | S | S | S | S | S |
-| 6 | S | S | S | S | B | S | S | S |
+| 6 | S | S | S | S | S | S | S | S |
 | 7 | S | S | S | S | S | S | S | S |
 ```
 1. Show the seats
