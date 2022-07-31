@@ -13,8 +13,8 @@ public class Cinema {
 
         System.out.println("Cinema:");
         String[][] seats = new String[rows+1][columns+1];
-        for (int i = 0; i < rows+1; i++) {
-            for (int j = 0; j < columns+1; j++) {
+        for (int i = 0; i < rows + 1; i++) {
+            for (int j = 0; j < columns + 1; j++) {
                 if (i == 0 && j == 0) {
                     seats[i][j] = " ";
                 } else if (j == 0){
@@ -50,7 +50,7 @@ public class Cinema {
 
         System.out.println("Cinema:");
         for (int i = 0; i < rows+1; i++) {
-            for (int j = 0; j < columns+1; j++) {
+            for (int j = 0; j < columns + 1; j++) {
                 if (i == 0 && j == 0) {
                     seats[i][j] = " ";
                 } else if (j == 0){
@@ -62,7 +62,7 @@ public class Cinema {
                 } else {
                     seats[i][j] = "S";
                 }
-                System.out.print(seats[i][j]+" ");
+                System.out.print(seats[i][j] + " ");
             }
             System.out.println();
         }
