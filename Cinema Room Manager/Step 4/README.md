@@ -4,12 +4,12 @@ The theatre is getting popular, and the customers started complaining that it's 
 ## §2. Objectives
 At the start, your program should read two positive integer numbers that represent the number of rows and seats in each row. Then, it should print a menu with the following three items:
 
-Show the seats should print the current seating arrangement. The empty seats should be marked with an S symbol, and taken seats are marked with a B symbol.
-Buy a ticket should read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a B when the item Show the seats is called.
-Exit should stop the program.
+`Show the seats` should print the current seating arrangement. The empty seats should be marked with an `S` symbol, and taken seats are marked with a `B` symbol.
+`Buy a ticket` should read the seat coordinates from the input and print the ticket price like in the previous stage. After that, the chosen seat should be marked with a `B` when the item `Show the seats` is called.
+`Exit` should stop the program.
 
 ## §3. Example
-The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+The greater-than symbol followed by a space (`> `) represents the user input. Note that it's not part of the input.
 
 ```
 Enter the number of rows:
