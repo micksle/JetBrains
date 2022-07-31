@@ -72,7 +72,7 @@ public class Cinema {
         int columns = seats[0].length - 1;                                      // seats in each row in the cinema
 
         int totalSeats = rows * columns;                                        // total seats amount
-        int half = rows / 2;                                                    // front half of the rows
+        int half = rows / 2;                                                    // front half of the rows amount
         int price;                                                              // price of the ticket
         if (totalSeats <= 60) {                                                 // if amount of seats is less than 60, then the price is $10 per ticket
             price = 10;
@@ -88,7 +88,7 @@ public class Cinema {
         int rows = seats.length - 1;                                            // rows in the cinema
         int columns = seats[0].length - 1;                                      // seats in each row in the cinema
         int totalSeats = rows * columns;                                        // total seats amount
-        int half = rows / 2;                                                    // front half of the rows
+        int half = rows / 2;                                                    // front half of the rows amount
         int frontHalf = half * columns;                                         // front half seats amount
         int backHalf = totalSeats - frontHalf;                                  // back half seats amount
 
