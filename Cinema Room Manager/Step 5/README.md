@@ -126,5 +126,5 @@ Total income: $360
 3. Statistics
 0. Exit
 > 0
-> ```
+>
 > 
