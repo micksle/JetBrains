@@ -42,7 +42,7 @@ public class Cinema {
 
     public static void showSeats(int rows, int columns, String[][] seats, int seatRow, int seatColumn) {
         System.out.println("Cinema:");
-        for (int i = 0; i < rows+1; i++) {
+        for (int i = 0; i < rows + 1; i++) {
             for (int j = 0; j < columns+1; j++) {
                 if (i == 0 && j == 0) {
                     seats[i][j] = " ";
