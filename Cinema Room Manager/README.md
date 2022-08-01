@@ -10,4 +10,4 @@ What\`s more, the contribution made by this project to the skills and the princi
 
 The repository consists of 5 folders, each of which represents the task and its solution at each step of the project.  
 
-Likeawise, the folder named *"Topics"* consists of every extra task that were made during the execution of the main task. 
+<!---Likeawise, the folder named *"Topics"* consists of every extra task that were made during the execution of the main task. -->
