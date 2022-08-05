@@ -2,5 +2,5 @@
 
 ## Projects:
 1) [Cinema Room Manager](https://github.com/mickzle/JetBrains/tree/main/Cinema%20Room%20Manager)
-2) Coffee Machine
+2) [Coffee Machine](https://github.com/mickzle/JetBrains/tree/main/Coffee%20Machine)
 3) To be continued.. 
